@@ -2,4 +2,7 @@
 ## automated greeter 
 
 
-echo "Hi Jon"
+name="Jon"
+
+echo "Hi ${name}"
+
