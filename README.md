@@ -2,5 +2,6 @@
 
 #create file README
 
+automated greeter for Jon
 
 
